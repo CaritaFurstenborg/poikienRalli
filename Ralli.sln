@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ralli.Plugins", "Ralli.Plugins.csproj", "{062AC872-98FC-BFC1-5612-E84E6DD540ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ralli", "Ralli.csproj", "{3752F706-0A92-861C-5538-AAAEFCDF000C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ralli.Editor.Plugins", "Ralli.Editor.Plugins.csproj", "{5D74CDBF-9B33-EFAF-6D97-E2E8C8D6BB4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{062AC872-98FC-BFC1-5612-E84E6DD540ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{062AC872-98FC-BFC1-5612-E84E6DD540ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{062AC872-98FC-BFC1-5612-E84E6DD540ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{062AC872-98FC-BFC1-5612-E84E6DD540ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3752F706-0A92-861C-5538-AAAEFCDF000C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3752F706-0A92-861C-5538-AAAEFCDF000C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3752F706-0A92-861C-5538-AAAEFCDF000C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3752F706-0A92-861C-5538-AAAEFCDF000C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D74CDBF-9B33-EFAF-6D97-E2E8C8D6BB4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D74CDBF-9B33-EFAF-6D97-E2E8C8D6BB4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D74CDBF-9B33-EFAF-6D97-E2E8C8D6BB4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D74CDBF-9B33-EFAF-6D97-E2E8C8D6BB4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
