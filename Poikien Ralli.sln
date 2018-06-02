@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Poikien Ralli", "Assembly-CSharp-firstpass.csproj", "{4ABA2488-5AE2-FA24-2148-73AFB63C4DC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Poikien Ralli", "Assembly-CSharp.csproj", "{BD632D45-86AC-3CE3-5E4D-D543FDFFD674}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Poikien Ralli", "Assembly-CSharp-Editor-firstpass.csproj", "{5054F1A5-63B6-BC3B-FB88-3421FCF613A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4ABA2488-5AE2-FA24-2148-73AFB63C4DC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ABA2488-5AE2-FA24-2148-73AFB63C4DC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ABA2488-5AE2-FA24-2148-73AFB63C4DC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ABA2488-5AE2-FA24-2148-73AFB63C4DC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD632D45-86AC-3CE3-5E4D-D543FDFFD674}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD632D45-86AC-3CE3-5E4D-D543FDFFD674}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD632D45-86AC-3CE3-5E4D-D543FDFFD674}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD632D45-86AC-3CE3-5E4D-D543FDFFD674}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5054F1A5-63B6-BC3B-FB88-3421FCF613A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5054F1A5-63B6-BC3B-FB88-3421FCF613A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5054F1A5-63B6-BC3B-FB88-3421FCF613A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5054F1A5-63B6-BC3B-FB88-3421FCF613A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
